@@ -25,6 +25,6 @@
 ## To begin
 1. Fork this Repo
 2. Open with GitHub Desktop
-3. Clone this project to you device
+3. Clone this project to your computer
 4. Open with VS Code
 5. Review all 3 files
