@@ -10,7 +10,7 @@
 - Predict the expected return value of a function
 
 ## Suggested Duration
-1-2 periods (45-90 minutes)
+2 periods (90 minutes)
 
 ## Vocabulary
 - **variable:** Variables are containers for storing data (storing data values).
@@ -21,3 +21,10 @@
 - **comparison operators:** operators that compare values and return true or false. The operators include: > , < , >= , <= , === , and !==
 - **conditional statements:** they instruct the computer on the decision to make when given some comparison.
 - **arrow function:** a “chunk” of code that you can use over and over again, rather than writing it out multiple times.
+
+## To begin
+1. Fork this Repo
+2. Open with GitHub Desktop
+3. Clone this project to you device
+4. Open with VS Code
+5. Review all 3 files
