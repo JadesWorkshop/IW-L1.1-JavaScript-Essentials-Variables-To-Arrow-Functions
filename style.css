@@ -2,9 +2,20 @@ body {
   width: min(90%, 1200px);
   margin: auto;
   font-family: "IBM Plex Sans", sans-serif;
-  background: lightskyblue;
+  background-color: rgb(162, 229, 229);
 }
 
 .container {
+  padding: 1%;
   text-align: center;
+  background-color: rgb(25, 211, 149);
+  border-radius: 15px;
+  margin: 1rem 0;
+}
+
+.vocab{
+  padding: 1%;
+  font-size: 1.5rem;
+  background-color: rgb(25, 211, 149);
+  border-radius: 15px;
 }
